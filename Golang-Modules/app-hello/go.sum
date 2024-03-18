@@ -1,0 +1,6 @@
+github.com/Hanifanta/go-hello v1.0.0 h1:m4VPQnEDlH96+H/673N2qKu4hSXd+ntanqWLjr8lNc4=
+github.com/Hanifanta/go-hello v1.0.0/go.mod h1:b0g+mszgfEO+FjO4h9+Ifc2grkTfmdvPM0h1fDDKn+c=
+github.com/Hanifanta/go-hello v1.0.1 h1:0E+RqvrLw/KltV9f/0b1lvG3iKsAmAv3PZUeDmZxNq4=
+github.com/Hanifanta/go-hello v1.0.1/go.mod h1:b0g+mszgfEO+FjO4h9+Ifc2grkTfmdvPM0h1fDDKn+c=
+github.com/Hanifanta/go-hello/v2 v2.0.0 h1:6Ep1GIkomfRVXSk6ZzAELaOIRtA0WP6yDV00FmxiykM=
+github.com/Hanifanta/go-hello/v2 v2.0.0/go.mod h1:QEwb5PdnhM1XXiTzxJ1Z/vdC7fMOdShGJiLJqNPAE7A=

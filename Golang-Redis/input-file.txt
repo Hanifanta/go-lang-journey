@@ -1,0 +1,5 @@
+set hanif "Hanif Al Irsyad"
+set budi "Budi budi"
+set joko "Joko joko"
+set ruly "Ruly rudal"
+set jogja "Jogja"
